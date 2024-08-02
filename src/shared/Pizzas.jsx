@@ -1,8 +1,8 @@
-import margherita from "../assets/images/margherita.png"
-import pepperoni from "../assets/images/pepperoni.png"
-import quattroformaggi from "../assets/images/quattroformaggi.png"
-import hawaiana from "../assets/images/hawaiana.png"
-import calabresa from "../assets/images/calabresa.png"
+import margherita from "../assets/imagens/margherita.png"
+import pepperoni from "../assets/imagens/pepperoni.png"
+import quattroformaggi from "../assets/imagens/quattroformaggi.png"
+import hawaiana from "../assets/imagens/hawaiana.png"
+import calabresa from "../assets/imagens/calabresa.png"
 
 const Pizzas = [ 
     {
@@ -42,4 +42,4 @@ const Pizzas = [
 
 ]
 
-export defaut Pizzas;
+export default Pizzas;
