@@ -1,8 +1,8 @@
-import mussarela from "../assets/images/mussarela.png"
-import calabresa from "../assets/images/calabresa.png"
-import atum from "../assets/images/atum.png"
-import portuguesa from "../assets/images/portuguesa.png"
-import frango from "../assets/images/frango.png"
+import Margherita from "../assets/images/Margherita.png"
+import Pepperoni from "../assets/images/Pepperoni.png"
+import Quattro Formaggi from "../assets/images/Quattro Formaggi.png"
+import Hawaiana from "../assets/images/Hawaiana.png"
+import Calabresa from "../assets/images/Calabresa.png"
 
 const Pizzas = [ 
     {
